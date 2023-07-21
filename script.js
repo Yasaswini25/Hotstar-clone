@@ -1,8 +1,9 @@
+import Carousel  from "react-bootstrap/Carousel";
 let movies = [
  {
   name: "Loki",
   des : "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
-  image:iandv/slider1.PNG 
+  image:"iandv/slider1.PNG"
   },
   {
     name: "Falcon and the Winter Solider",
