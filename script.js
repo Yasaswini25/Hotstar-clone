@@ -8,22 +8,22 @@ let movies = [
   {
     name: "Falcon and the Winter Solider",
     des : "Following the events of 'Avengers: Endgame,' Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience.",
-    image: iandv/slider2.PNG
+    image: "iandv/slider2.PNG"
   },
   {
     name: "Wanda Vision",
     des : "Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems.",
-    image: iandv/slider3.PNG
+    image: "iandv/slider3.PNG"
   },
   {
     name: "Raya and the last dragon",
     des : "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
-    image: iandv/slider4.PNG
+    image: "iandv/slider4.PNG"
   },
   {
     name: "Luca",
     des : "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
-    image:iandv/slider5.PNG" 
+    image:"iandv/slider5.PNG" 
   }
 ];
       
