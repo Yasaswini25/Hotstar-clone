@@ -1,7 +1,7 @@
 # Hotstar_clone
 Deployment-link:-
 ### Project:-
-In this project I have tried to make a clone of Hotstar a video streaming Website, where we
+In this project I have tried to make a clone of landing page of video streaming Website i.e Hotstar.
 ### Landing page
 ![landing](https://github.com/Yasaswini25/Hotstar-clone/blob/main/l1.png)
 ![landing](https://github.com/Yasaswini25/Hotstar-clone/blob/main/l2.png)
