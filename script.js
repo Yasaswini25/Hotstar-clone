@@ -3,7 +3,7 @@ let movies = [
  {
   name: "Loki",
   des : "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
-  image:iandv/slider1.PNG
+  image: iandv/slider1.PNG
   },
   {
     name: "Falcon and the Winter Solider",
@@ -23,7 +23,7 @@ let movies = [
   {
     name: "Luca",
     des : "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
-    image:iandv/slider5.PNG
+    image: iandv/slider5.PNG
   }
 ];
       
