@@ -1,5 +1,5 @@
 # Hotstar_clone
-Deployment-link:-https://yasaswini25.github.io/Hotstar-clone/
+Deployment-link:- https://yasaswini25.github.io/hotstar-clone/
 ### Project:-
 In this project I have tried to make a clone of landing page of video streaming Website i.e Hotstar.
 ### Technologies used:-
